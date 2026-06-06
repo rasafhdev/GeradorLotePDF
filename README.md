@@ -77,4 +77,4 @@ Após a conclusão, os arquivos serão gerados em:
 
 ## Contato
 
-rasafhdev@gm
+rasafhdev@gmail.com
