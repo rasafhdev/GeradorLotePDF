@@ -1,3 +1,5 @@
 geradorlotepdf
 geradorlotepdf.pub
 
+venv*
+venv/
