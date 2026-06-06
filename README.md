@@ -1,6 +1,6 @@
 # Gerador de Lote PDF
 
-**Autor:** Você
+**Autor:** Rodrigo
 
 ## Descrição
 
@@ -77,4 +77,4 @@ Após a conclusão, os arquivos serão gerados em:
 
 ## Contato
 
-Este README foi criado para documentar o projeto e explicar como usar o utilitário.
+rasafhdev@gm
